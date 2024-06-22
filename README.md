@@ -1,5 +1,6 @@
 # PRODIGY_DS_01
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
 Visualizing Data Distribution
 To effectively understand the distribution of variables in dataset, visualization plays a crucial role. 
 
